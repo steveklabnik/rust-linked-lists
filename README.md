@@ -1,4 +1,4 @@
-rust-linked-lists
+Rust linked lists
 =================
 
-Several linked list implementations in Rust
+Several linked list implementations in Rust 0.13-nightly
